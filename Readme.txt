@@ -1,6 +1,16 @@
 
 -----CREATED BY SUJOY ADHIKARY--------
 
+
+SuperAdmin Login Credentials:
+ superadmin1@mail.com/superadmin2@mail.com  Password:Admin@1234
+ 
+Admin Login Credentials:
+ admin3@mail.com/admin4@mail.com  Password:Admin@1234
+
+Customer Login Credentials:
+ customer5@mail.com - customer94@mail.com  Password:Admin@1234
+
 Key features:
 
 1) Loosely coupled and testable
