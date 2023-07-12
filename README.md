@@ -33,6 +33,7 @@ Key features:
    and creating reusable Generic Test Classes. It can Mock IHttpContextAccessor and Can Simulate Logins,
    thus making it capable of performing some integration tests too.
 11)EFDemo is a Demo helper project which helps to generate some the Model class using Migration 
+12)Serilog along Microsoft_Extention_Looging_Abstraction are used for Logging
 
 Disadvantages:
 
